@@ -5,5 +5,5 @@
 
 <h3>Minhas Redes</h3>
 <a href="https://www.linkedin.com/in/imaarques/">LinkedIn</a><br/>
-<a href="https://www.imaarques.github.io/portfolio">Portfólio</a><br/>
+<a href="https://imaarques.github.io/portfolio/">Portfólio</a><br/>
 <a href="https://www.instagram.com/imaarques">Instagram</a>
