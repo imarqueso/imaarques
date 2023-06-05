@@ -1,5 +1,5 @@
 <h1>Olá, sou Igor Marques.</h1>
-<h3>Desenvolvedor inspirado em <span color="#4b6ed1" >tecnologia</span> e desenvolvimento <span>web</span>, gosto de dar vida a <span>interfaces</span>.</h3><br/>
+<h3>Desenvolvedor Web e UI Designer/h3><br/>
 
 <p>Desenvolvedor Web focado em criar interfaces/sites interativos e elegantes aplicando metodologias de UI e UX. Atualmente desenvolvendo sistemas com o framework PHP Laravel, websites e ecommerces com WordPress e Woocommerce./p>
 
