@@ -10,6 +10,7 @@ Bem-vindo ao meu perfil! 👋 Sou um Desenvolvedor Full Stack com 2 anos de expe
 - CSS
 - Bootstrap
 - JavaScript
+- jQuery
 - PHP
 - Laravel
 - WordPress
