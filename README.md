@@ -1,6 +1,6 @@
 # Igor Marques - Desenvolvedor Full Stack
 
-Bem-vindo ao meu perfil! 👋 Sou um Desenvolvedor Full Stack com 2 anos de experiência, especializado em diversas tecnologias web. Aqui está um resumo das minhas habilidades:
+Bem-vindo ao meu perfil! 👋 Sou um Desenvolvedor Full Stack com 3 anos de experiência, especializado em diversas tecnologias web. Aqui está um resumo das minhas habilidades:
 
 ## Área de Atuação
 - Desenvolvedor Full Stack
