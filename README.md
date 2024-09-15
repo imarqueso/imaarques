@@ -17,7 +17,7 @@ Bem-vindo ao meu perfil! 👋 Sou um Desenvolvedor Full Stack com 3 anos de expe
 - MySQL
 
 ## Experiência
-Tenho 2 anos de experiência trabalhando como Desenvolvedor Full Stack, participando de projetos interessantes e desafiadores.
+Tenho 3 anos de experiência trabalhando como Desenvolvedor Full Stack, participando de projetos interessantes e desafiadores.
 
 ## Projetos Destacados
 - [GestãoStock](https://github.com/imarqueso/gestao_stock): Sistema web de gestão de estoque feito em Laravel.
